@@ -1,0 +1,4 @@
+/home/ubuntu/OSortTest/build/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/OSortTest/build/CMakeFiles/Test.dir
+/home/ubuntu/OSortTest/build/CMakeFiles/edit_cache.dir
+/home/ubuntu/OSortTest/build/CMakeFiles/OBL_LIB.dir

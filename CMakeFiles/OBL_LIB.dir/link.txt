@@ -1,0 +1,2 @@
+/usr/bin/ar qc libOBL_LIB.a  CMakeFiles/OBL_LIB.dir/rise/obl_primitives.cpp.o CMakeFiles/OBL_LIB.dir/rise/par_obl_primitives.cpp.o
+/usr/bin/ranlib libOBL_LIB.a
